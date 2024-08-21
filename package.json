@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "jquery": "^3.7.1",
-    "three": "^0.167.1"
-  },
-  "devDependencies": {
-    "vite": "^5.4.2"
-  }
-}
