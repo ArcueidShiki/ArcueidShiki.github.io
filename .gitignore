@@ -27,7 +27,6 @@
 *.ptx.c
 *.ptx.gz
 *_g
-**/node_modules/
 **/.vscode/
 **/package-lock.json
 *.idea
