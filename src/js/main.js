@@ -1,5 +1,5 @@
-import * as THREE from "three";
-import $ from "jquery";
+import * as THREE from "/node_modules/three";
+import $ from "/node_modules/jquery";
 var container = document.getElementById("globeCanvas");
 
 //SETUP SCENE
